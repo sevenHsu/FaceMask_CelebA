@@ -5,9 +5,9 @@ we created a simulated masked face dataset based on the CelebA dataset.
 This simulated masked face dataset called FaceMask_CelebA,which include 202599 masked face images and the
 modified face bbox label. 
 
-   - Download the [FaceMask_CelebA]()() dataset from BaiDu.
+   - Download the [FaceMask_CelebA](https://pan.baidu.com/s/1AVsGh3TN-OJGWx3AuisT7g) (密码:chjo) dataset from Baidu Netdisk.
 
-   - Download the [FaceMask_CelebA]() dataset from Google.
+   - Download the [FaceMask_CelebA]()(coming soon) dataset from Google Drive.
 
    - Visit the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) For more Face Attribute annotation and other information. 
 ### Simulated masked face
